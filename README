@@ -1,0 +1,26 @@
+Sakai-Stats version 0.01
+========================
+
+The Sakai stats module is used to generate useful statistical information from
+raw sakai data. The intention is it will provide a useful means of interacting
+with database and web server data and provide a means to present that data in a
+format suitable for further intepretation and analysis.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+COPYRIGHT AND LICENCE
+
+COPYRIGHT: (c) 2011 Daniel David Parry <perl@ddp.me.uk>
+
+LICENSE: http://dev.perl.org/licenses/artistic.html
