@@ -1,5 +1,10 @@
 Revision history for Perl extension Sakai::Stats.
 
+0.02  Tue May 17 13:45:00 2011
+  - added implementation for generating statistics on a per institution level.
+    This requires a suitable ldap server to be present. Various other implementation
+    added as well around the database etc.
+
 0.01  Thu May 12 11:10:46 2011
 	- original version; created by h2xs 1.23 with options
 		-AX Sakai::Stats

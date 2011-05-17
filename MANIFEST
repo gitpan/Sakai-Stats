@@ -1,6 +1,9 @@
 Changes
+lib/Sakai/Stats/Database.pm
+lib/Sakai/Stats/Institutions.pm
 lib/Sakai/Stats.pm
 Makefile.PL
 MANIFEST
+META.yml
 README
 t/Sakai-Stats.t
